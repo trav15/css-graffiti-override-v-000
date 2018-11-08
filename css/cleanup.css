@@ -1,4 +1,4 @@
 /* write your override styles here */
-#tag-2, .slick wicked {
+#tag-2, div#tag-4, .slick wicked {
   display: none;
 }
